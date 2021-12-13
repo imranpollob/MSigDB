@@ -1,6 +1,8 @@
-# Download and pasre MSigDB data
+# Download and parse MSigDB data
 
 ### Installation
+
+For the first time only
 ```bash
 # create a new virtual environment
 python -m venv venv
@@ -13,7 +15,15 @@ source venv/bin/activate
 
 # install required packages
 pip install -r requirements.txt
+```
 
+Run project
+```bash
+python main.py
+```
+
+Other useful commands
+```bash
 # show installed packages
 pip list
 
