@@ -1,5 +1,6 @@
 *.gmt
 *.csv
+*.sqlite
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
